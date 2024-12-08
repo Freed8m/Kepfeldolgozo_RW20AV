@@ -28,3 +28,5 @@ Ez egy képszerkesztő program, egyszerű, gyors, és (egyenlőre) egyszeri oper
 # Követelmények
 - Python 3.0 vagy újabb
   -   Tkinter opcionális modul a python telepítőben
+# Előnézet
+![Screenshot 2024-12-08 170607](https://github.com/user-attachments/assets/8670eb6f-44ec-4011-822f-d3a22aed8fe3)
