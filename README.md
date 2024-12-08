@@ -15,6 +15,10 @@ Ez egy képszerkesztő program, egyszerű, gyors, és (egyenlőre) egyszeri oper
 - Python (3.0 vagy újabb) szükséges
 - Terminálban vagy parancssorban futtatandó parancs:
     <br>`python kepfeldolgozo.py`
+  <br>vagy
+    <br>`py kepfeldolgozo.py`
+  <br>vagy
+    <br>`python3 kepfeldolgozo.py`
 ### Általános útmutató  
 - A program indításkor rögtön fájlkiválasztáshoz kerülünk
 - Miután a kép betölt, két fajta opció-típusról beszélhetünk:
