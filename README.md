@@ -9,6 +9,8 @@ Ez egy képszerkesztő program, egyszerű, gyors, és (egyenlőre) egyszeri oper
   - Forgatás (90°, 180°)
   - Kép átméretezés (Bilineáris)
   - Gauss alapú képelmosás
+  - Fekete-fehérré váltás
+  - Kép-élesítés
 
 # Használat
 ### Indítás
@@ -23,8 +25,8 @@ Ez egy képszerkesztő program, egyszerű, gyors, és (egyenlőre) egyszeri oper
 - A program indításkor rögtön fájlkiválasztáshoz kerülünk
 - Miután a kép betölt, két fajta opció-típusról beszélhetünk:
   - A forgatás opciók rögtön exportálják a képet egy szuffixummal, rögtönzött megjelenítés nem lehetséges
-  - Az átméretezés és Gauss-blur csak akkor exportálódik ha az **'Exportál?'** doboz be van pipálva
-- Gauss-blur-nél lehetséges a kép megtekintése exportálás nélkül
+  - A többi opció csak akkor exportálódik ha az **'Exportál?'** doboz be van pipálva, ha nincs csak megjeleníti a változásokat
+- Az utóbbi opcióknál (kivéve átméretezés) lehetséges a kép megtekintése exportálás nélkül
 - Az exportált kép az eredeti képpel megegyező mappába fog kerülni, az operációhoz illően hozzáadott szuffixummal
 
 <br>*Egyenlőre többszöri, 'batch' képfeldolgozás nem lehetséges.*
